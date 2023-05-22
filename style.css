@@ -1,0 +1,168 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+   
+} 
+.header {
+    height: 697px;
+    background-color: #e4f9f5;
+    text-align: center;
+    position: relative;
+    display: block;
+   
+}
+.cloud1 { 
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    right:300px;
+    top: 30px;
+}
+
+.cloud2 {
+    height: 150px;
+    width: 300px;
+    position: absolute;
+  left: 200px;
+  bottom: 200px;
+}
+
+.mountin {
+    width: 900px;
+    height: 288px;
+}
+.header :nth-child(2) {
+    font-size: 5rem;
+    color: #66bfbf;
+    padding-top: 150px; 
+    font-family: 'Sacramento', cursive;
+}
+
+h3 {
+    font-size: 2rem;
+    color: #66bfbf;
+    font-family: Montserrat, sans-serif;
+    padding-top: 48px;
+    padding-bottom: 54px
+}
+/*contener*/
+.container {
+    text-align: center;
+    margin: 100px 0;
+    width: 80%;
+    margin:30px  auto;
+
+}
+.svg1{
+    border-radius: 50%;
+    border: black 1px solid;
+    margin-bottom: 20px;
+    padding-top: 37px;
+    width: 300px;
+    height: 300px;
+    
+}.top h1{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: 100;
+    padding-bottom: 10px;
+
+}
+
+.top p{
+    
+text-align: center;
+width: 50%;
+margin: 5px auto;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.text{
+margin-top: 10px;
+margin-bottom: 100px;
+color: #66bfbf;
+font-family: "Montserrat", sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+}
+.svg2,.svg4,.svg6{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+    border: black 1px solid;
+}
+.Skills{
+  
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+.Skills h4{
+    margin: 10px auto;
+    font-weight: normal;
+    font-size: 1.3rem;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+}
+
+ .svg3,.svg5,.svg7{
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 50%;
+    border: black 1px solid;
+}
+h2 ,h5{
+
+    color:  #427886;
+    line-height: 2.3;
+    
+}
+.bottom
+{
+    text-align: center;
+}
+input{
+    background-color: #48abc9;
+    color: wheat;
+    width: 150px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    margin-top: 40px;
+}
+     .footer
+     { height: 85px;
+       background-color: #2e576d;
+       text-align: center;
+       padding-top: 20px;   
+     }
+  
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin:0 20px;
+    text-decoration: none;
+   
+}
+.footer p {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    text-align: center;
+}
+p{
+    line-height: 2;
+}
